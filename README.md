@@ -1,5 +1,5 @@
 # Kata Calculator
-## «Блок калькулятора»
+## «Блок файлов терминального приложения "КАТА - Калькулятор"»
 
 ### [«Class main»](/src/Main.java)
 ### [«Class Translator»](/src/Translator.java)
